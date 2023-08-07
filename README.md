@@ -11,7 +11,7 @@
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
-  ## Technologies Used:
+  ## Technologies Used
   HTML, CSS, JS, jQuery, Day.js
   ## Contributors
   n/a
