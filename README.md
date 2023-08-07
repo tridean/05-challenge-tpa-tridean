@@ -7,7 +7,7 @@
   ## Screenshot
   ![screenshot]()
   ## Table of Contents
-  * [Using this Application](#UsingthisApplication)
+  * [Technologies Used](#TechnologiesUsed)
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
