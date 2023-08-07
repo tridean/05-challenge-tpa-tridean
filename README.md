@@ -7,7 +7,7 @@
   ## Screenshot
   ![screenshot]()
   ## Table of Contents
-  * [Technologies Used](#TechnologiesUsed)
+  * [Technologies Used](#Technologies_Used)
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
