@@ -5,7 +5,7 @@
   ## Deployed Application URL
   https://github.com/tridean/05-challenge-tpa-tridean
   ## Screenshot
-  ![screenshot]()
+  ![screenshot](./Assets/imgs/screenshot.PNG)
   ## Table of Contents
   * [Technologies Used](#Technologies-Used)
   * [Contributors](#contributors)
@@ -14,7 +14,7 @@
   ## Technologies Used
   HTML, CSS, JS, jQuery, Day.js
   ## Contributors
-  n/a
+  Various sources for efficient fetching of data from text input as well as parsing ids as integers.
   ## Testing
   Type into the provided boxes and click the save button on the right to save your activity to local storage.
   ## Questions
