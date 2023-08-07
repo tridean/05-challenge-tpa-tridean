@@ -26,7 +26,7 @@ $(function () {
 
 
   // TODO: Add code to display the current date in the header of the page.
-  function updateTime() {
+  function refreshTime() {
     const dateEle = $("#currentDay");
     const timeEle = $("#currentTime");
     const currentDate = dayjs().format('dddd, MMMM D, YYYY');
@@ -34,5 +34,5 @@ $(function () {
     dateEle.text(currentDate);
     timeEle.text(currentTime);
   }
-  setInterval(updateTime, 1000);
+  setInterval(refreshTime, 1000);
 });
